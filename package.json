@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-project-two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkenjayev/NodeJS-project-two.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkenjayev/NodeJS-project-two/issues"
+  },
+  "homepage": "https://github.com/jkenjayev/NodeJS-project-two#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4",
+    "uuid": "^8.3.2"
+  }
+}
